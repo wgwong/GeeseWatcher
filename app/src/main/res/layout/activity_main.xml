@@ -27,6 +27,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="bottom|end"
-        android:layout_margin="@dimen/fab_margin" />
+        android:layout_margin="16px"
+        android:src="@drawable/canada_goose_icon_round"/>
+
 
 </android.support.design.widget.CoordinatorLayout>

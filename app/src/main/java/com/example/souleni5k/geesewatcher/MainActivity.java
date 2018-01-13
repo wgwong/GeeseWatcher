@@ -82,7 +82,6 @@ public class MainActivity extends AppCompatActivity {
         }
 
         FloatingActionButton fab = findViewById(R.id.fab);
-        fab.setImageResource(getResources().getIdentifier("canada_goose_icon_round.png", "id", thisActivity.getPackageName()));
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
